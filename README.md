@@ -72,4 +72,5 @@ I’m **Koduru Shiva Sai Krishna**, an aspiring Computer Science student aiming 
 ## 🔗 GitHub Repository
 
 👉 [student_mark_calculator](https://github.com/Shiva-sai-MIT/student_mark_calculator)
-THANK YOU ☺️ 
+
+THANK YOU 🙂 
