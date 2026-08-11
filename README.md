@@ -63,7 +63,7 @@ This beginner-friendly Python project helps students calculate their total marks
 
 ## 🧑‍💻 About Me
 
-I’m **Koduru Shiva Sai Krishna**, an aspiring Computer Science student aiming for top universities like **MIT, Stanford, and other QS Top 10 colleges**. I love creating real-world projects using Python — even from mobile — and continuously strive to improve.
+I’m **Koduru Shiva Sai Krishna**, an aspiring student who want to pursue Computer science and buisness and wants to contribute something very good to my people and this planet. I love creating real-world projects using Python — even from mobile — and continuously strive to improve from mistakes and upgrade myself all the time.
 
 > This is the first step in my GitHub journey, and many innovative projects are coming soon!.This was my first project I would love to to improve myself and create new project which help our society
 
